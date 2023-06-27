@@ -66,16 +66,16 @@
     order: 2;
   }
   .advantage__item_inclusive {
-    order: 4px;
+    order: 4;
   }
   .advantage__item_adapt {
-    order: 1px;
+    order: 1;
   }
   .advantage__item_clear {
-    order: 3px;
+    order: 3;
   }
   .advantage__item_copyright {
-    order: 5px;
+    order: 5;
   }
 }
 
