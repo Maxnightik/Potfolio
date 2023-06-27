@@ -1,6 +1,8 @@
 header {
   background-color: #a1b7c8;
   min-height: 60px;
+  padding-top: 13px;
+    padding-bottom: 13px;
 }
 
 .header__container {
